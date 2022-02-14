@@ -8,5 +8,7 @@ Building a supervised model using Decision tree to find weather a pateint is dia
 *Cleansing the data properly
 
 * Building decision Tree model
+
 * Feeding the data into the model by splitting them into test and train.
+
 * Calculate the accuracy score with the help of confusion matrix
