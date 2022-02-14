@@ -1,5 +1,5 @@
 # Diabetic-Or-Non-Diabetic
-Building a supervised model using Decision tree to find weather a pateint is diabetic or not  
+•	Building a supervised model using Decision tree to find weather a patient is diabetic or not.
 
 *Given data consist of patience list  
 
